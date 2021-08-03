@@ -1,0 +1,88 @@
+Lynx
+ADF Test: Result: The series is stationary
+KPSS Test: Result: The series is stationary
+A série não vem de uma distribuição normal.CV [19.14159612]
+Curtose [-0.71779477]
+1 quartil 2.553883027
+3 quartil 3.4111144189999996
+
+Exchange Rate
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [16.53118104]
+Curtose [0.54106212]
+1 quartil 1.4950357145
+3 quartil 1.8214785715000001
+
+Yearly Sunspot
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is stationary
+A série não vem de uma distribuição normal.CV [80.77539409]
+Curtose [0.6153219]
+1 quartil 15.9
+3 quartil 68.92500000000001
+
+Colorado River
+ADF Test: Result: The series is stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [111.10591916]
+Curtose [6.88179878]
+1 quartil 0.45
+3 quartil 1.2650000000000001
+
+Lake Erie
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [13.41972503]
+Curtose [-0.45496105]
+1 quartil 13.5765
+3 quartil 16.433
+
+airlines2
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [42.32414465]
+Curtose [-0.38986509]
+1 quartil 180.5
+3 quartil 361.0
+
+Daily Female Births Dataset
+ADF Test: Result: The series is stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [17.47408794]
+Curtose [0.75201343]
+1 quartil 37.0
+3 quartil 46.0
+
+Eletric
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [25.40576232]
+Curtose [-0.95746941]
+1 quartil 182290.0
+3 quartil 284180.0
+
+Gas
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [25.42953699]
+Curtose [-0.74568858]
+1 quartil 128847.0
+3 quartil 193589.5
+
+Pollution
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [86.64224028]
+Curtose [0.25890074]
+1 quartil 359.16
+3 quartil 2219.784
+
+redwine
+ADF Test: Result: The series is not stationary
+KPSS Test: Result: The series is not stationary
+A série não vem de uma distribuição normal.CV [38.48835913]
+Curtose [0.13755615]
+1 quartil 1141.75
+3 quartil 2145.5
+
